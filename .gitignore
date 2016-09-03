@@ -1,0 +1,14 @@
+*.txt
+*.zip
+*.gx
+images/
+!images/code.jpg
+!images/comp1.jpg
+!images/comp2.jpg
+!images/comp3.jpg
+!images/cssLogo.PNG
+!images/jsLogo.PNG
+!images/mysqlLogo.PNG
+!images/phpLogo.PNG
+!images/webDev1.PNG
+
