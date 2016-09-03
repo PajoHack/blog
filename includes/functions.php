@@ -1,7 +1,7 @@
 <?php 
 //include('db_connect.php');
 
-$dbc = mysqli_connect('localhost', 'root', '', 'blog6')
+$dbc = mysqli_connect('localhost', 'root', '', 'blog')
     or die('Error connecting to MySQL server.');
 
 function get_posts($id = null, $cat_id = null){
